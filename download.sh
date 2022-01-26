@@ -8,3 +8,9 @@ sleep 1
 cd moto_liber/downloaded
 sleep 1
 curl -O $stockurl
+
+clear
+printf "unpacking stock\n\n"
+sleep 1
+unzip *.zip -d ../unpacked/
+slee 1

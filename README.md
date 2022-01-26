@@ -1,1 +1,1 @@
-<pre>motorola one fusion plus<br/>xt2067-2<br/>liber<hr/><ul><li><strong>setup.sh:</strong><br/>creates the required directories</li><li><strong>download.sh:</strong><br/>download the stock rom (zipped)</li></ul></pre>
+<pre>motorola one fusion plus<br/>xt2067-2<br/>liber<hr/><ul><li><strong>setup.sh:</strong><br/>creates the required directories</li><li><strong>download.sh:</strong><br/>download the stock rom (zipped) and extract it</li></ul></pre>
