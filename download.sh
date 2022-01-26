@@ -13,4 +13,4 @@ clear
 printf "unpacking stock\n\n"
 sleep 1
 unzip *.zip -d ../unpacked/
-slee 1
+sleep 1
